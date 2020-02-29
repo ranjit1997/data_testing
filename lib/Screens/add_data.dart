@@ -1,7 +1,7 @@
 
-import 'package:data_testing/Drawer/first_fragment.dart';
-import 'package:data_testing/Drawer/second_fragment.dart';
-import 'package:data_testing/Drawer/third_fragment.dart';
+import 'package:data_testing/Drawer/add_fragment.dart';
+import 'package:data_testing/Drawer/home_fragment.dart';
+import 'package:data_testing/Drawer/setting_fragment.dart';
 import 'package:flutter/material.dart';
 
 
